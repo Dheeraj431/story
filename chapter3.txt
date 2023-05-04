@@ -1,1 +1,2 @@
-Welcome to chapter 3
+Welcome to chapter 3>
+In this chapter we are trying to upload a new change to github using the command line 
